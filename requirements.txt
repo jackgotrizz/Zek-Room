@@ -1,0 +1,4 @@
+aiohttp
+python-dotenv
+discord.py
+bcrypt
